@@ -18,7 +18,7 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://skillicons.dev" width="48" height="48" alt="TypeScript" /><br><br>
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><br>
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="105">
