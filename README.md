@@ -67,7 +67,7 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
       <sub><b>Tailwind</b></sub>
     </td>
    <td align="center" width="105">
-     <img src="https://skillicons.dev/icon?i=nodejs" width="48" height="48" alt="Node.js" /><br><br>
+     <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" /><br><br>
      <sub><b>Node.js</b></sub> 
    </td>
   </tr>
