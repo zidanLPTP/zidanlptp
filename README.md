@@ -2,7 +2,7 @@
 
 # Halo, Saya ZidanLPTP 
 
-Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa perangkat lunak, sistem informasi modern, otomasi & pengolahan data, serta pemodelan aset 3D. Selalu antusias membangun aplikasi yang efisien, terstruktur, dan berorientasi pada pemecahan masalah nyata.
+Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa perangkat lunak (Full Stack). Selalu antusias membangun aplikasi yang efisien, terstruktur, dan berorientasi pada pemecahan masalah nyata.
 
 <br>
 
@@ -26,10 +26,6 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br><br>
-      <sub><b>Rust</b></sub>
-    </td>
-    <td align="center" width="105">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><br>
       <sub><b>PHP</b></sub>
     </td>
@@ -50,7 +46,7 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
 
 <br>
 
-## Framework, SDK & Library
+## Framework & Library
 
 <table align="center">
   <tr>
@@ -63,10 +59,6 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" /><br><br>
-      <sub><b>Tauri v2</b></sub>
-    </td>
-    <td align="center" width="105">
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br><br>
       <sub><b>Flutter</b></sub>
     </td>
@@ -74,73 +66,14 @@ Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br><br>
       <sub><b>Tailwind</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><br>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br><br>
-      <sub><b>Three.js</b></sub>
-    </td>
+   <td align="center" width="105">
+     <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" /><br><br>
+     <sub><b>Node.js</b></sub> 
+   </td>
   </tr>
 </table>
 
-<br>
 
-## Data, Kecerdasan Buatan & Database
 
-<table align="center">
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow.js" /><br><br>
-      <sub><b>TensorFlow.js</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" /><br><br>
-      <sub><b>Google Gemini</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/MediaPipe-00796B?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" /><br><br>
-      <sub><b>MediaPipe</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup4" /><br><br>
-      <sub><b>BeautifulSoup4</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Pemodelan 3D, Runtime & Perangkat Pengembang
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender 3D" /><br><br>
-      <sub><b>Blender 3D</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><br>
-      <sub><b>Git VCS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="Deno" /><br><br>
-      <sub><b>Deno Engine</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot Engine" /><br><br>
-      <sub><b>Godot Engine</b></sub>
-    </td>
-  </tr>
-</table>
 
 </div>
