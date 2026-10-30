@@ -18,7 +18,7 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Bahasa Pemrograman</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,dart,html,css&perline=8" alt="JavaScript, TypeScript, Python, PHP, Java, Dart, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,dart,html,css&perline=8" alt="JavaScript, TypeScript, Python, PHP, Java, Dart, HTML, CSS, C++" />
 </p>
 
 <h2 align="center">Framework &amp; Library</h2>
@@ -32,6 +32,6 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Statistik GitHub</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZidanLPTP&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidanLPTP&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zidanLPTP&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanLPTP&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
