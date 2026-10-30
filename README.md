@@ -1,79 +1,37 @@
 <div align="center">
 
-# Halo, Saya ZidanLPTP 
+# Halo, saya Fathin Ahmad Zidan A
 
-Mahasiswa **Teknik Informatika di Universitas Riau** yang berfokus pada rekayasa perangkat lunak (Full Stack). Selalu antusias membangun aplikasi yang efisien, terstruktur, dan berorientasi pada pemecahan masalah nyata.
+**Mahasiswa Teknik Informatika, Universitas Riau**
+
+Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi yang efisien, terstruktur, dan menyelesaikan masalah nyata.
 
 <br>
 
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0f766e?style=for-the-badge" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/Universitas%20Riau-Informatika-1d4ed8?style=for-the-badge" alt="Universitas Riau" />
+
+</div>
 
 ---
 
-## Bahasa Pemrograman Utama
+<h2 align="center">Bahasa Pemrograman</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><br>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br><br>
-      <sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=html,css" width="96" height="48" alt="HTML5 & CSS3" /><br><br>
-      <sub><b>HTML5 / CSS3</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,dart,html,css&perline=8" alt="JavaScript, TypeScript, Python, PHP, Java, Dart, HTML, CSS" />
+</p>
 
-<br>
+<h2 align="center">Framework &amp; Library</h2>
 
-## Framework & Library
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind,nodejs&perline=5" alt="Laravel, React, Flutter, Tailwind CSS, Node.js" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><br>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br><br>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br><br>
-      <sub><b>Tailwind</b></sub>
-    </td>
-   <td align="center" width="105">
-     <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" /><br><br>
-     <sub><b>Node.js</b></sub> 
-   </td>
-  </tr>
-</table>
+---
 
+<h2 align="center">Statistik GitHub</h2>
 
-
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZidanLPTP&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidanLPTP&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
