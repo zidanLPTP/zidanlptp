@@ -32,6 +32,10 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Statistik GitHub</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zidanLPTP&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanLPTP&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" alt="Profil GitHub" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Statistik GitHub" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Bahasa terbanyak di commit" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" alt="Repo per bahasa" />
 </p>
