@@ -32,10 +32,15 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Statistik GitHub</h2>
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" alt="Profil GitHub" />
-  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Statistik GitHub" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" alt="Detail profil" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Statistik kontribusi" />
 </p>
+
 <p align="center">
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Bahasa terbanyak di commit" />
   <img src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" alt="Repo per bahasa" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Bahasa terbanyak di commit" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" width="48%" alt="Waktu paling produktif" />
 </p>
