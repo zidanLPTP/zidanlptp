@@ -28,7 +28,7 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Framework &amp; Library</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind,nodejs&perline=5" alt="Laravel, React, Flutter, Tailwind CSS, Node.js" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind,nodejs&perline=5" alt="Laravel, React, Flutter, Tailwind CSS, Node.js, Express.js" />
 </p>
 
 ---
