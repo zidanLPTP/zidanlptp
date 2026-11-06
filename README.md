@@ -8,6 +8,10 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 
 <br>
 
+ <img src="koi/koi.gif" width="256" alt="My koi">
+
+ <br>
+
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f766e?style=for-the-badge" alt="Full Stack Developer" />
 <img src="https://img.shields.io/badge/Universitas%20Riau-Informatika-1d4ed8?style=for-the-badge" alt="Universitas Riau" />
 
