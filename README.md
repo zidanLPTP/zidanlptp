@@ -22,7 +22,7 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Bahasa Pemrograman</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,dart,html,c++,css&perline=8" alt="JavaScript, TypeScript, Python, PHP, Java, Dart, HTML, CSS, C++" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,dart,html,cpp,css&perline=8" alt="JavaScript, TypeScript, Python, PHP, Java, Dart, HTML, CSS, C++" />
 </p>
 
 <h2 align="center">Framework &amp; Library</h2>
@@ -63,6 +63,6 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 
 <p align="center">
   <a href="mailto:zidanlptp@gmail.com"><img src="https://img.shields.io/badge/Email-zidanlptp-d14836?style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/fathin-ahmad-zidan-unri"><img src="https://img.shields.io/badge/LinkedIn-fathin-ahmad-zidan-unri-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/fathin-ahmad-zidan-unri"><img src="https://img.shields.io/badge/LinkedIn-Fathin%20Ahmad%20Zidan-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://instagram.com/fathinn_ny"><img src="https://img.shields.io/badge/Instagram-fathinn_ny-e4405f?style=for-the-badge" alt="Instagram" /></a>
 </p>
