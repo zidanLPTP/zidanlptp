@@ -36,7 +36,7 @@ Berfokus pada rekayasa perangkat lunak *full stack*. Senang membangun aplikasi y
 <h2 align="center">Tools &amp; Database</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,postman&perline=6" alt="Git, GitHub, VS Code, MySQL, Figma, Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,postman,docker&perline=6" alt="Git, GitHub, VS Code, MySQL, Figma, Postman, Docker" />
 </p>
 
 ---
